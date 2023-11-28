@@ -3,7 +3,7 @@
 
 This is a full-stack MERN application that allows users to create, read, update, and delete blog posts. It is built using React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for the database.
 
-![This is the home page] (https://imgur.com/a/K238GSG)
+<img src="https://i.imgur.com/a/K238GSG" alt="This is the home page">
 
 ### Features
 

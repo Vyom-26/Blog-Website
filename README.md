@@ -1,9 +1,8 @@
-
 # Blog Website
 
 This is a full-stack MERN application that allows users to create, read, update, and delete blog posts. It is built using React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for the database.
 
-<img src="https://i.imgur.com/a/K238GSG" alt="This is the home page">
+![Home Page](https://github.com/Vyom-26/Blog-Website/assets/128027346/c3145e83-0caf-474d-8392-36888d849f0a)
 
 ### Features
 
